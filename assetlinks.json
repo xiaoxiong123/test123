@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tianqi.instantapp.test",
+    "sha256_cert_fingerprints":
+    ["AC:5C:06:C0:FC:0A:1C:73:91:B8:EB:90:9A:E5:D2:2F:83:E1:59:10:03:0E:BC:3A:BE:DF:D2:5D:2F:D4:FB:7A"]
+  }
+}]
